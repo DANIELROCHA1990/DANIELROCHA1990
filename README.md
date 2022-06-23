@@ -4,18 +4,23 @@
 - Currently I work with publicity and advertising, but I am looking for new challenges and I saw in development, more precisely with Ruby,
   a new passion in this transition period.
   
-- 🌱 I’m currently learning:
+<h2>- 🌱 My Knowledge:</h2>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="100" width="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="100" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="100" width="100" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="100" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" width="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" width="100"/>
 
-- 🤔 I'm looking for help to find my first job in dev area
+----
+
+<h2 align="left">- 🤔 I'm looking for help to find my first job in dev area</h2>
  
-- 📊 My statistics in Github
-<div>
-<a href="https://github.com/DANIELROCHA1990">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELROCHA1990&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DANIELROCHA1990&show_icons=true&theme=dracula&include_all_commits=true"/>
+----
+<div align="center">
+<h2 align="left" style="margin: 5px 10px;">- 📊 My statistics in Github</h2>
+
+[![](https://github-readme-stats.vercel.app/api?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=danielrocha1990&theme=material-palenight)](https://github.com/DANIELROCHA1990)
 </div>
+
+----
 
 - 📫 How to reach me:
   
