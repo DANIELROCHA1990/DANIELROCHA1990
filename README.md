@@ -17,16 +17,15 @@
 <h2 align="left" style="margin: 5px 10px;">- 📊 My statistics in Github</h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=danielrocha1990&theme=material-palenight)](https://github.com/DANIELROCHA1990)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=danielrocha1990&theme=dracula)](https://github.com/DANIELROCHA1990)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
 </div>
 
 ----
-
-- 📫 How to reach me:
-  
+<h2 align="left">- 📫 How to reach me:</h2>  
 <a href="https://www.linkedin.com/in/daniel-rocha-a670a594/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:daniel1990rocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-- ⚡ Fun fact: I love music and my first repo was a musical script 
+<h2 align="left">- ⚡ Fun fact: I love music and my first repo was a musical script </h2
 
 
 ## A little about my academic life
