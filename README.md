@@ -25,14 +25,17 @@
 <h2 align="left">- 📫 How to reach me:</h2>  
 <a href="https://www.linkedin.com/in/daniel-rocha-a670a594/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:daniel1990rocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<h2 align="left">- ⚡ Fun fact: I love music and my first repo was a musical script </h2
+<h2 align="left">- ⚡ Fun fact: I love music and my first repo was a musical script </h2>
 
 
-## A little about my academic life
-• Nível Superior ( 2º semestre/2011 – GRADUADO) - Estácio Fic – Via Corpvs
+<h2 align="left">- A little about my academic life</h2>
+
+<ul><li>Nível Superior ( 2º semestre/2011 – GRADUADO) - Estácio Fic – Via Corpvs</li></ul>
   
 ## Qualifications and complementary activities
-• Iniciando com Ruby e Orientação a Objetos (6,5 horas – concluído)
-• Ruby on Rails – Do início ao fim (48 Horas – cursando)
-• O curso completo de Banco de Dados e SQL, sem mistérios! (58 horas - cursando)
-• Curso completo de PostgreSQL! Do Básico ao Avançado v2022! (27,5 horas - cursando)
+<ul>
+<li>Iniciando com Ruby e Orientação a Objetos (6,5 horas – concluído)</li>
+<li>Ruby on Rails – Do início ao fim (48 Horas – cursando)</li>
+<li>O curso completo de Banco de Dados e SQL, sem mistérios! (58 horas - cursando)</li>
+<li>Curso completo de PostgreSQL! Do Básico ao Avançado v2022! (27,5 horas - cursando)</li>
+</ul>
