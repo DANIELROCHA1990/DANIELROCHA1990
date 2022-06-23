@@ -16,9 +16,12 @@
 <div align="center">
 <h2 align="left" style="margin: 5px 10px;">- 📊 My statistics in Github</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=danielrocha1990&theme=dracula)](https://github.com/DANIELROCHA1990)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
+  [![](https://github-readme-stats.vercel.app/api?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
+  ---
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=danielrocha1990&theme=dracula)](https://github.com/DANIELROCHA1990)
+  ---
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrocha1990&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/DANIELROCHA1990)
+  ---
 </div>
 
 ----
